@@ -1,7 +1,7 @@
 # base64tool
 
     print('Usage:')
-    print('    base64tool.exe <Mode> <Filename>')
+    print('    base64tool.py <Mode> <Filename>')
     print()
     print('    <Mode>:      decode OR encode')
     print('    <Filename>:       abc.txt')
